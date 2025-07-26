@@ -1,16 +1,23 @@
-# Gridley App Support
+ Gridley App – Support
 
-This repository provides a place to report issues or request support related to the Gridley app.
+Welcome to the official support page for the Gridley iOS app.
 
-## Submitting an Issue
+If you're experiencing issues or have questions, please use the GitHub Issues tab to report bugs or request help.
 
-To report a bug or request help:
+### 🛠 Submit an Issue
+1. Visit the [Issues tab](https://github.com/EmersonDesignInc/GridleyIOS/issues).
+2. Click **"New Issue"**.
+3. Provide:
+   - A clear description
+   - Device type
+   - iOS version
+   - App version
 
-1. Go to the [Issues](https://github.com/YOUR_USERNAME/gridley-support/issues) tab.
-2. Click **New Issue**.
-3. Include as much detail as possible, including device, OS version, and app version if applicable.
+### 📘 What this page is for
+- Submit support requests
+- See known issues
+- Track app improvements and fixes
 
-## Purpose
+---
 
-- Track and manage support requests
-- Provide a record of known issues and solutions
+Need help and can't file a GitHub issue? Email us at: **support@emersondesign.com**
