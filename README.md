@@ -1,4 +1,4 @@
- Gridley App – Support
+# Gridley App – Support
 
 Welcome to the official support page for the Gridley iOS app.
 
