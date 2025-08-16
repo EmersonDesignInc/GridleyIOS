@@ -20,4 +20,3 @@ If you're experiencing issues or have questions, please use the GitHub Issues ta
 
 ---
 
-Need help and can't file a GitHub issue? Email us at: **support@emersondesign.com**
