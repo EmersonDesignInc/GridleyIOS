@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: [Insert Date]
+Last updated: 8/17/2025
 
 Gridley respects your privacy. This Privacy Policy explains how we handle your information when you use our app.
 
